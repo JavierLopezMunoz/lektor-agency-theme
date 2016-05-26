@@ -10,7 +10,7 @@ by [David Miller](//github.com/davidtmiller).
 
 ## Installation
 
-First you have to install [lektor](//www.getlektor.com/).
+First you have to install [Lektor](//www.getlektor.com/).
 
 As an example to install Lektor in Ubuntu via pip you have to
 
@@ -40,5 +40,5 @@ read the
 
 Thanks to
 
-- [David Miller](//github.com/davidtmiller) for creating this theme
+- [David Miller](//github.com/davidtmiller) for creating this theme.
 - [Armin Ronacher](//github.com/mitsuhiko) for creating Lektor.
