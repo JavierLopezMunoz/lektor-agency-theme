@@ -33,7 +33,7 @@ bar of your browser.
 
 This theme is released under the MIT license. For more information
 read the
-[License](//github.com//JavierLopezMunoz/lektor-agency-theme/master/LICENSE).
+[License](//github.com/JavierLopezMunoz/lektor-agency-theme/master/LICENSE).
 
 
 ## Acknowledgements
