@@ -1,6 +1,246 @@
-title: Welcome to lektor-agency-theme!
+description: 
+---
+author: 
+---
+title: Agency - Start Bootstrap Theme
+---
+name: Start Bootstrap
+---
+quote: Welcome To Our Studio!
+---
+subquote: It's nice to meet you
+---
+calltoaction: Tell me more
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages.
+#### services ####
+title: Services
+----
+subtitle: Lorem ipsum dolor sit amet consectetur.
+----
+body:
+
+##### service #####
+fontawesome: fa-shopping-cart
+-----
+title: E-Commerce
+-----
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit
+##### service #####
+fontawesome: fa-laptop
+-----
+title: Responsive Design
+-----
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit
+##### service #####
+fontawesome: fa-lock
+-----
+title: Web Security
+-----
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit
+#### portfolio ####
+title: Portfolio
+----
+subtitle: Lorem ipsum dolor sit amet consectetur.
+#### about ####
+title: About
+----
+subtitle: Lorem ipsum dolor sit amet consectetur.
+----
+body:
+
+##### event #####
+class: 
+-----
+image: /static/img/about/1.jpg
+-----
+dates: 2009-2011
+-----
+title: Our Humble Beginnings
+-----
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+##### event #####
+class: timeline-inverted
+-----
+image: /static/img/about/2.jpg
+-----
+dates: March 2011
+-----
+title: An Agency is Born
+-----
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+##### event #####
+class: 
+-----
+image: /static/img/about/3.jpg
+-----
+dates: December 2012
+-----
+title: Transition to Full Service
+-----
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+##### event #####
+class: timeline-inverted
+-----
+image: /static/img/about/4.jpg
+-----
+dates: July 2014
+-----
+title: Phase Two Expansion
+-----
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+----
+tail: Be Part<br>Of Our<br>Story!
+#### team ####
+title: Our Amazing Team
+----
+subtitle: Lorem ipsum dolor sit amet consectetur.
+----
+body:
+
+##### member #####
+photo: /static/img/team/1.jpg
+-----
+name: Kay Garland
+-----
+position: Lead Designer
+-----
+social:
+
+###### network ######
+url: http://www.twitter.com
+------
+fontawesome: fa-twitter
+###### network ######
+url: http://www.facebook.com
+------
+fontawesome: fa-facebook
+###### network ######
+url: http://www.linkedin.com
+------
+fontawesome: fa-linkedin
+##### member #####
+photo: /static/img/team/2.jpg
+-----
+name: Larry Parker
+-----
+position: Lead Marketer
+-----
+social:
+
+###### network ######
+url: http://www.twitter.com
+------
+fontawesome: fa-twitter
+###### network ######
+url: http://www.facebook.com
+------
+fontawesome: fa-facebook
+###### network ######
+url: http://www.linkedin.com
+------
+fontawesome: fa-linkedin
+##### member #####
+photo: /static/img/team/3.jpg
+-----
+name: Diana Pertersen
+-----
+position: Lead Developer
+-----
+social:
+
+###### network ######
+url: http://www.twitter.com
+------
+fontawesome: fa-twitter
+###### network ######
+url: http://www.facebook.com
+------
+fontawesome: fa-facebook
+###### network ######
+url: http://www.linkedin.com
+------
+fontawesome: fa-linkedin
+----
+tail: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+#### clients ####
+body:
+
+##### client #####
+url: #
+-----
+logo: /static/img/logos/envato.jpg
+##### client #####
+url: #
+-----
+logo: /static/img/logos/designmodo.jpg
+##### client #####
+url: #
+-----
+logo: /static/img/logos/themeforest.jpg
+##### client #####
+url: #
+-----
+logo: /static/img/logos/creative-market.jpg
+#### contact ####
+title: Contact Us
+----
+subtitle: Lorem ipsum dolor sit amet consectetur.
+----
+left_fields:
+
+##### field #####
+type: text
+-----
+placeholder: Your Name *
+-----
+id: name
+-----
+message: Please enter your name.
+##### field #####
+type: email
+-----
+placeholder: Your Email *
+-----
+id: email
+-----
+message: Please enter your email address.
+##### field #####
+type: tel
+-----
+placeholder: Your Phone *
+-----
+id: phone
+-----
+message: Please enter your phone number.
+----
+right_fields:
+
+##### field #####
+type: textarea
+-----
+placeholder: Your Message *
+-----
+id: message
+-----
+message: Please enter a message.
+----
+calltoaction: Send Message
+---
+copyright: Copyright &copy; Your Website 2014
+---
+social:
+
+#### network ####
+url: http://www.twitter.com
+----
+fontawesome: fa-twitter
+#### network ####
+url: http://www.facebook.com
+----
+fontawesome: fa-facebook
+#### network ####
+url: http://www.linkedin.com
+----
+fontawesome: fa-linkedin

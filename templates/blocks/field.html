@@ -1,0 +1,8 @@
+<div class="form-group">
+  {% if this.type == 'textarea' %}
+  <textarea class="form-control" placeholder="{{ this.placeholder }}" id="{{ this.id }}" required data-validation-required-message="{{ this.message }}"></textarea>
+  {% else %}
+  <input type="{{ this.type }}" class="form-control" placeholder="{{ this.placeholder }}" id="{{ this.id }}" required data-validation-required-message="{{ this.message }}">
+  {% endif %}
+    <p class="help-block text-danger"></p>
+</div>
